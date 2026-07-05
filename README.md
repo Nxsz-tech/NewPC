@@ -1,6 +1,6 @@
 # PrimePC: ร้านค้าออนไลน์สำหรับจัดจำหน่ายอุปกรณ์คอมพิวเตอร์
 
-Git Page https://saranyu311243.github.io/PrimePC/
+Git Page https://nxsz-tech.github.io/NewPC/
 
 ## 1) ข้อมูลกลุ่ม (Group information)
 - **ชื่อกลุ่ม:** ดรีมหลับ
